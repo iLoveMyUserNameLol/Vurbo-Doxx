@@ -1,16 +1,16 @@
 Vurbo doxxer
 this doxxing program is advanced, 
 # ***TURN OFF ANTIVIRUS***
-ip difference check
+/ip difference check
 - meaning if the ip is public or private
-address generalizer
+/address generalizer
 - tries to generalize a coherent address
 - uses over 400 different website programs
-packet checker
+/packet checker
 - see how much packets are being sent to the ip address
-VPS (Virtual Private Security) support
+/VPS (Virtual Private Security) support
 - supports VPS checkers
-IP information extractor
+/IP information extractor
 - wifi brand
 - ips near the area
 - country
